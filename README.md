@@ -2,6 +2,7 @@
 AzureProject01
 
 ## Sajid_Azam future ready project
+In this project, I have research about wild trafficking and put some data of illegal hunting of animals and make a dashboard using PowerBI to display the UNDOC.org dataset.
 
 # Website Link - https://delightful-mushroom-050559010.1.azurestaticapps.net/
 
@@ -13,7 +14,7 @@ AzureProject01
 
 
 
-
+## HOME PAGE
 ![Screenshot (94)](https://user-images.githubusercontent.com/96919624/189741762-7589e933-db49-487f-9f04-df697fa6469a.png)
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/96919624/189741793-17ea44e6-124b-4d02-9daa-d42f05a0bdda.png)
@@ -24,7 +25,8 @@ AzureProject01
 ![Screenshot (99)](https://user-images.githubusercontent.com/96919624/189741830-4eb6083c-3ff7-476a-bddd-ffe721783df8.png)
 ![Screenshot (100)](https://user-images.githubusercontent.com/96919624/189741850-f79cecaa-856c-418b-a87d-9487dbfebd7d.png)
 
-## Data visualization
+## Data visualization(POWER BI)
+
 ![Screenshot (101)](https://user-images.githubusercontent.com/96919624/189742023-1c0df073-d0bd-4128-af20-72e970d2695c.png)
 ![Screenshot (102)](https://user-images.githubusercontent.com/96919624/189742031-315549e0-917c-40b2-ac9a-1fe10c4ffba9.png)
 ![Screenshot (103)](https://user-images.githubusercontent.com/96919624/189742057-7397e3a9-6e85-4ce0-bf5e-de7ee62fe387.png)
