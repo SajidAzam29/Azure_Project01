@@ -2,7 +2,7 @@
 AzureProject01
 
 ## Sajid_Azam future ready project
-In this project, I have research about wild trafficking and put some data of illegal hunting of animals and make a dashboard using PowerBI to display the UNDOC.org dataset.
+In this project, I made a research about wild trafficking and put some data of illegal hunting of animals on my website and make a dashboard using PowerBI to display the UNDOC.org dataset.
 
 # Website Link - https://delightful-mushroom-050559010.1.azurestaticapps.net/
 
